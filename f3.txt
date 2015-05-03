@@ -1,0 +1,10 @@
+     1	//author luocheng
+     2	//date  2015-04-29
+     3	//content des: vim editor
+     4	public class Test{
+     5	
+     6	  public static void main(String[] args){//program start
+     7		//output
+     8		System.out.println("hello world!");
+     9	  }
+    10	}

@@ -1,0 +1,18 @@
+hello world!
+my name is luocheng.EOF
+EOF
+ZZ:q
+>luocheng
+罗城
+
+
+
+
+
+
+
+
+
+
+
+
